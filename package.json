@@ -1,0 +1,23 @@
+{
+  "name": "bitshit-backend",
+  "version": "1.0.0",
+  "description": "bitshit-backend authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
